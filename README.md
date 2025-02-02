@@ -37,8 +37,8 @@ I am deeply interested in leveraging **technology for the farming industry**, cr
 
 ## 💡 Let's Connect!
 📫 **Email:** prayag.work60@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/%EF%A3%BF-prayag-gediya-380314145/)    
-🌎 **Upwork:** [yourwebsite.com](https://www.upwork.com/freelancers/~01eab71240ed2222f1)  
+💼 **LinkedIn:** [linkedin](https://www.linkedin.com/in/%EF%A3%BF-prayag-gediya-380314145/)    
+🌎 **Upwork:** [portfolio](https://www.upwork.com/freelancers/~01eab71240ed2222f1)  
 
 💙 Open to collaborations, freelance work, and exciting Agri-Tech projects!
 
