@@ -29,9 +29,9 @@ I am deeply interested in leveraging **technology for the farming industry**, cr
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gediyaprayag&layout=compact&theme=tokyonight)
 
 ### 🚀 Featured Projects
-- 📱 **[Seated](https://apps.apple.com/in/app/seated-seating-plans-dining/id1601137387)
-- 🌿 **[Acensa](https://apps.apple.com/in/app/acensa-health/id1628889110)
-- 🤖 **[On Time](https://apps.apple.com/us/app/ontime-plan-your-day/id6467190891)
+- 📱 [Seated](https://apps.apple.com/in/app/seated-seating-plans-dining/id1601137387)
+- 📱 [Acensa](https://apps.apple.com/in/app/acensa-health/id1628889110)
+- 📱 [On Time](https://apps.apple.com/us/app/ontime-plan-your-day/id6467190891)
 
 ---
 
