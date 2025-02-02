@@ -25,8 +25,8 @@ I am deeply interested in leveraging **technology for the farming industry**, cr
 ---
 
 ## 📌 GitHub Stats & Projects
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gediyaprayag&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gediyaprayag&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gediyaprayag&hide=contribs,prs)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gediyaprayag&hide_progress=false&layout=compact)
 
 ### 🚀 Featured Projects
 - 📱 [Seated](https://apps.apple.com/in/app/seated-seating-plans-dining/id1601137387)
