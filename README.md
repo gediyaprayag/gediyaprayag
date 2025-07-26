@@ -1,43 +1,56 @@
-# 👋 Hi there, I'm Prayag Gediya!
+# 👋 Hi, I'm Prayag Gediya
 
-🚀 **Senior iOS Developer | Backend Developer | Agri-Tech Enthusiast**
-
-I am a passionate **Senior iOS Developer** with over 6 years of experience in **Swift, SwiftUI, and UIKit**. I specialize in building **scalable applications** for **iOS, iPadOS, watchOS, macOS, and visionOS**. Additionally, I have strong expertise in **backend development** using **Node.js & Express**, crafting efficient and scalable REST APIs.
-
-## 🌱 Agri-Tech & AI Integration
-I am deeply interested in leveraging **technology for the farming industry**, creating **Agri-Tech solutions** to optimize workflows and enhance productivity. I integrate **AI** into iOS applications to build smart, data-driven experiences that improve efficiency and usability.
+🚀 **Senior iOS & Full Stack Developer** | Swift, SwiftUI, React Native, Node.js | AI + Mobile App Innovator  
+📍 Ahmedabad, India | 📧 prayag.work60@gmail.com | 🌐 [Portfolio](https://github.com/gediyaprayag)  
 
 ---
 
-## 🔥 Tech Stack & Skills
-### 🎨 Mobile Development
-- Swift, SwiftUI, UIKit, Combine, CoreData, CloudKit, ARKit, RealityKit  
-
-### 🌐 Backend Development
-- Node.js, Express.js, REST APIs, Firebase, MongoDB, PostgreSQL  
-
-### 🤖 AI & Machine Learning
-- CoreML, TensorFlow (iOS), Vision Framework  
-
-### 🛠️ Dev Tools & Other
-- Git, Fastlane, CI/CD, Xcode, Docker, Postman, GraphQL, WebSockets, Third-party SDKs & Frameworks  
+### 💡 About Me
+- 💻 6+ years of mobile app development experience (iOS/Swift/SwiftUI + React Native)
+- 🌐 Full-stack skills: Node.js, Express, Firebase, MongoDB, Supabase
+- 🤖 AI Integrations: OpenAI, Replicate, Vision Models, Custom AI APIs
+- 📱 Published 10+ apps on App Store & Play Store
+- 🎨 Experienced with GitHub, Figma, App Store publishing, Analytics, RevenueCat, Push Notifications
 
 ---
 
-## 📌 GitHub Stats & Projects
-[![GitHub Streak](https://streak-stats.demolab.com?user=gediyaprayag&theme=prussian&short_numbers=true)](https://git.io/streak-stats)
+### 🔧 Tech Stack
 
-### 🚀 Featured Projects
-- 📱 [Seated](https://apps.apple.com/in/app/seated-seating-plans-dining/id1601137387)
-- 📱 [Acensa](https://apps.apple.com/in/app/acensa-health/id1628889110)
-- 📱 [On Time](https://apps.apple.com/us/app/ontime-plan-your-day/id6467190891)
+**Mobile:**  
+`Swift`, `SwiftUI`, `UIKit`, `Combine`, `AVKit`, `React Native (Expo)`  
+
+**Backend & Cloud:**  
+`Node.js`, `Express.js`, `Firebase`, `MongoDB`, `Supabase`, `Prisma`, `Railway`, `AWS`
+
+**Other Tools:**  
+`Figma`, `GitHub`, `Xcode`, `Postman`, `Stripe`, `RevenueCat`, `Jest`, `AsyncStorage`
 
 ---
 
-## 💡 Let's Connect!
-📫 **Email:** prayag.work60@gmail.com  
-💼 **LinkedIn:** [profile](https://www.linkedin.com/in/%EF%A3%BF-prayag-gediya-380314145/)    
-🌎 **Upwork:** [portfolio](https://www.upwork.com/freelancers/~01eab71240ed2222f1)  
+### 📈 Featured Projects
 
-💙 Open to collaborations, freelance work, and exciting Agri-Tech projects!
+- **Manifesting – Daily Quotes App**  
+  `SwiftUI`, `Animations`, `Notifications`, `App Store Published`  
+  [App Store](https://apps.apple.com/in/app/manifesting-daily-quotes/id1577390597)
 
+- **MathxHelper – AI Tutor App**  
+  `GPT-4 Vision`, `Image-to-text`, `Step-by-step AI solver`  
+  _Solves photo-based study problems using AI._
+
+- **Expense Tracker – React Native (Expo)**  
+  `Calendar View`, `Dark Mode`, `SQLite`, `Balance Carry Forward`, `CSV Import`  
+  _Cross-platform app to track daily income/expenses with local storage._
+
+- **Baby Milestone Tracker with AI Image Generator** *(WIP)*  
+  `React Native`, `Replicate API`, `Consistent Face Model`  
+  _Lets parents generate adorable milestone photos using AI._
+
+- **Coloring Book App for Kids**  
+  `SwiftUI`, `Thick Stroke Rendering`, `Multiple Categories`, `Offline Support`
+
+---
+
+### 📫 Let’s Connect
+- ✉️ [prayag.work60@gmail.com](mailto:prayag.work60@gmail.com)
+- 🌍 [LinkedIn](https://www.linkedin.com/in/gediyaprayag/)
+- 📱 [Upwork Profile Overview](https://www.upwork.com/freelancers/~01eab71240ed2222f1)
