@@ -65,8 +65,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gediyaprayag&show_icons=true&theme=react&hide_title=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gediyaprayag&theme=react" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=gediyaprayag&theme=react" height="150" />
 </p>
 
 ---
@@ -76,7 +75,7 @@
 - 💌 **prayag.work60@gmail.com**
 - 🌍 [LinkedIn](https://www.linkedin.com/in/gediyaprayag/)
 - 🌟 [Upwork Profile](https://www.upwork.com/freelancers/~01eab71240ed2222f1)
-- 🛒 [App Store](https://apps.apple.com/in/developer/prayag-gediya/id1577389317)
+- 🛒 [App Store](https://apps.apple.com/us/developer/prayag-gediya/id1829140159)
 
 ---
 
