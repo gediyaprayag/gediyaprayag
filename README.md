@@ -1,13 +1,11 @@
 <!-- Modern GitHub Profile README for Prayag Gediya -->
-
 <h1 align="center">Hi 👋, I'm Prayag Gediya</h1>
 <p align="center">
 🚀 Full Stack Mobile App Developer (iOS | React Native) • 🎨 UI/UX Focused • 🤖 AI Integrator
 </p>
-
 <p align="center">
   <a href="mailto:prayag.work60@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/gediyaprayag/">🔗 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/gediyaprayag/">🔗 LinkedIn</a>
 </p>
 
 ---
@@ -49,14 +47,16 @@
 |-----|-------|-------------|
 | [📱 Seam - Carousel & Collage](https://apps.apple.com/in/app/seam-carousel-collage/id6752507767) | `SwiftUI`, `Firebase`, `Xcode`, `Notifications` | A carousel and collage post maker for social media |
 | [👶 MiniMoo AI](https://apps.apple.com/us/app/minimoo-ai/id6749692857) | `iOS`, `SwiftUI`, `Firebase`, `Replicate`, `Face Model` | Generate cute milestone baby photos using AI |
-| [📱 Seated](https://apps.apple.com/in/app/seated-seating-plans-dining/id1601137387) | `SwiftUI`, `Firebase`, `In App Purchases`, `Xcode`, `Notifications` | The effortless way to efficiently manage the table seating and floorplan |
-| [📱 Direct Freight](https://apps.apple.com/us/app/direct-freight/id1271135115) | `iOS`, `API`, `In App Purchases`, `Xcode`, `Notifications` | The Direct Freight app lets truck drivers search more than 300K loads daily from reputable brokers & shippers on the Direct Freight network |
+| [📱 Seated](https://apps.apple.com/in/app/seated-seating-plans-dining/id1601137387) | `SwiftUI`, `Firebase`, `In App Purchases`, `Xcode`, `Notifications` | The effortless way to efficiently manage table seating and floorplans |
+| [📱 Direct Freight](https://apps.apple.com/us/app/direct-freight/id1271135115) | `iOS`, `API`, `In App Purchases`, `Xcode`, `Notifications` | Lets truck drivers search 300K+ loads daily from reputable brokers & shippers on the Direct Freight network |
 | [📱 Acensa](https://apps.apple.com/in/app/acensa-health/id1628889110) | `iOS`, `SwiftUI`, `API`, `In App Purchases`, `Xcode`, `Notifications` | Track your health history and quickly share it with your provider |
-| [📱 OnTime](https://apps.apple.com/us/app/ontime-plan-your-day/id6467190891) | `iOS`, `SwiftUI`, `API`, `In App Purchases`, `Xcode`, `Notifications` | Your Ultimate Group Planning Companion |
-| [📱 Manifesting (App Store)](https://apps.apple.com/in/app/manifesting-daily-quotes/id1577390597) | `SwiftUI`, `Xcode`, `Notifications` | A beautiful daily quotes app with animations and reminders |
+| [📱 OnTime](https://apps.apple.com/us/app/ontime-plan-your-day/id6467190891) | `iOS`, `SwiftUI`, `API`, `In App Purchases`, `Xcode`, `Notifications` | Your ultimate group planning companion |
+| [📱 Solvify](https://apps.apple.com/us/app/solvify/id6740338618) | `iOS`, `SwiftUI`, `Xcode` | iOS utility app |
+| [📱 QTP Mart](https://apps.apple.com/in/app/qtp-mart/id1565815720) | `iOS`, `SwiftUI`, `Xcode` | iOS app |
+| [📱 ColorJoy - Coloring App for Kids](https://apps.apple.com/in/app/colorjoy-color-book/id6749183712) | `SwiftUI`, `Drawing`, `Offline` | Kids' coloring app with thick strokes & scenes |
+| [📱 Manifesting (App Store)](https://apps.apple.com/in/app/manifesting-daily-quotes/id1577390597) | `SwiftUI`, `Xcode`, `Notifications` | A daily quotes app with animations and reminders |
 | [🧮 MathxHelper](https://github.com/gediyaprayag/mathxhelper-ai-solver) | `SwiftUI`, `GPT-4o`, `Vision API` | AI-powered problem solver from images |
 | [📊 Expense Tracker (React Native)](https://github.com/gediyaprayag/expense-tracker-react-native) | `React Native`, `SQLite`, `CSV Import` | Track income/expense with daily balance carry forward |
-| [🎨 ColorJoy - Coloring App for Kids](https://apps.apple.com/in/app/colorjoy-color-book/id6749183712) | `SwiftUI`, `Drawing`, `Offline` | Kids' coloring app with thick strokes & scenes |
 
 > ✨ _More projects coming soon!_
 
@@ -71,7 +71,7 @@
 
 ---
 
-### 📫 Let’s Connect!
+### 📫 Let's Connect!
 
 - 💌 **prayag.work60@gmail.com**
 - 🌍 [LinkedIn](https://www.linkedin.com/in/gediyaprayag/)
@@ -81,4 +81,3 @@
 ---
 
 _Thanks for visiting! Feel free to explore my repositories and reach out for any collaboration._
-
